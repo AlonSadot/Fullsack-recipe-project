@@ -1,0 +1,25 @@
+
+
+
+Alon:
+	make main page
+	login page
+	show recipe page
+	search recipe
+	favorites - add to favorite
+	
+Dor:	
+	about page
+	Register page
+	fill main page
+	create recipe modal
+	my recipes
+	
+
+family recipes who ever finishes first
+
+
+
+
+
+
